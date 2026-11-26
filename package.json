@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/quintype/yeh-bhi-woh-bhi#readme",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.22.0",
     "http-proxy": "^1.16.2",
     "sleep-promise": "^2.0.0"
   }
